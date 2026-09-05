@@ -1,4 +1,4 @@
-# Iran–Israel War 2026 — Multimodal Visual Analytics Dashboard
+# Iran–Israel War 2026 — Geopolitical-Risk -Market analytics
 
 ## Quick Start (3 steps)
 
