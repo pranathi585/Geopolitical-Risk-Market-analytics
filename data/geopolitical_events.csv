@@ -1,0 +1,114 @@
+Date,Event_Description,Fatalities,Location,Latitude,Longitude,Conflict_Intensity
+2024-04-13,tp1 - Drone/Cruise Missile Wave | tp1 - Ballistic Missile Wave,0.0,"Nevatim Airbase, sites in Negev desert and Israeli-occupied Golan Heights | Nevatim Airbase (primary), Ramon Airbase area, sites in Negev desert and Golan Heights",30.89,34.78,5.0
+2024-10-01,tp2 - First Ballistic Salvo | tp2 - Second Ballistic Salvo (Fattah-1),2.0,"Nevatim Airbase (primary), Tel Nof Airbase, Hatzerim Airbase | Mossad/Unit 8200 HQ at Glilot (north Tel Aviv), Nevatim Airbase, Tel Nof Airbase",30.89,34.78,5.2
+2025-06-13,tp3,0.0,"Military centers, air bases | Haifa, Galilee",31.66,34.78,5.0
+2025-06-14,tp3 - Ya Ali ibn Abi Talib | tp3,0.0,"Occupied territories — penetrated multiple defense layers | Tel Aviv, Haifa, other cities",32.07,34.77,5.0
+2025-06-15,tp3,9.0,"Haifa oil refinery, military targets | Israeli C2 centers, Haifa, Tel Aviv; Bat Yam struck",32.82,35.0,5.9
+2025-06-16,tp3,0.0,"Tel Aviv, Haifa — enhanced intelligence-guided targeting | Strategic/sensitive targets in Tel Aviv, Haifa — C2 systems targeted | Haifa, Tel Aviv — continued bombardment",32.445,34.885,5.5
+2025-06-17,tp3,0.0,"Israeli airbases from which jets attacked Iran | Air defense radars, military targets — Fattah used to destroy radar systems, clearing path for follow-on missiles",32.0567,35.02,5.0
+2025-06-19,tp3,0.0,"Tel Aviv — ultra-heavy, long-range, two-stage Sejjil missiles",32.07,34.77,4.5
+2025-06-20,tp3,0.0,"Military sites, military industry in Haifa/Tel Aviv | Military/industrial facilities | Military targets — new phase of campaign | Military targets",32.445,34.885,6.0
+2025-06-21,tp3,3.0,"Military/strategic targets | 14 strategic military sites: Hadera power plant, Haifa oil refinery, Ovda airbase (cyber command), Kiryat Gat semiconductor zone, Rafael center Haifa",31.62,35.06,5.3
+2025-06-22,tp3,0.0,"Strategic targets — large combined operation | Ben Gurion Airport, biological research centers, C2 facilities",32.445,34.885,5.0
+2025-06-23,tp3,0.0,Military/strategic targets — new tactics for precision and destructiveness,32.07,34.77,4.5
+2025-06-24,tp3,4.0,Military and logistical centers — final wave minutes before US-brokered ceasefire,31.25,34.79,4.9
+2026-01-01,,0.0,,0.0,0.0,0.22492149191569255
+2026-01-02,,0.0,,0.0,0.0,0.3569199098407918
+2026-01-03,,0.0,,0.0,0.0,0.29611486245002405
+2026-01-04,,0.0,,0.0,0.0,0.2658076444715536
+2026-01-05,,0.0,,0.0,0.0,0.2375494994067219
+2026-01-06,,0.0,,0.0,0.0,0.23268890784413704
+2026-01-07,,0.0,,0.0,0.0,0.2161533659596571
+2026-01-08,,0.0,,0.0,0.0,0.17297987619787372
+2026-01-09,,0.0,,0.0,0.0,0.3168438558786949
+2026-01-10,,0.0,,0.0,0.0,0.4614702812948235
+2026-01-11,,0.0,,0.0,0.0,0.98236367708517
+2026-01-12,,0.0,,0.0,0.0,0.7064059737623362
+2026-01-13,,0.0,,0.0,0.0,0.5948982849736242
+2026-01-14,,0.0,,0.0,0.0,0.5518677537872109
+2026-01-15,,0.0,,0.0,0.0,0.5096949740530187
+2026-01-16,,0.0,,0.0,0.0,0.4115777384906434
+2026-01-17,,0.0,,0.0,0.0,0.39599525377529765
+2026-01-18,,0.0,,0.0,0.0,0.37607635894039104
+2026-01-19,,0.0,,0.0,0.0,0.23021095920438786
+2026-01-20,,0.0,,0.0,0.0,0.18999194666692082
+2026-01-21,,0.0,,0.0,0.0,0.18451186794439867
+2026-01-22,,0.0,,0.0,0.0,0.1827487121815002
+2026-01-23,,0.0,,0.0,0.0,0.19280346531586698
+2026-01-24,,0.0,,0.0,0.0,0.31236448718376375
+2026-01-25,,0.0,,0.0,0.0,0.22840015058303273
+2026-01-26,,0.0,,0.0,0.0,0.20395423419473815
+2026-01-27,,0.0,,0.0,0.0,0.2375494994067219
+2026-01-28,,0.0,,0.0,0.0,0.26747549451753866
+2026-01-29,,0.0,,0.0,0.0,0.32256219889350063
+2026-01-30,,0.0,,0.0,0.0,0.26981048458191764
+2026-01-31,,0.0,,0.0,0.0,0.4551801039785372
+2026-02-01,,0.0,,0.0,0.0,0.5201309500550391
+2026-02-02,,0.0,,0.0,0.0,0.3128886686267876
+2026-02-03,,0.0,,0.0,0.0,0.24688945966423795
+2026-02-04,,0.0,,0.0,0.0,0.1918504081467327
+2026-02-05,,0.0,,0.0,0.0,0.2503204654731214
+2026-02-06,,0.0,,0.0,0.0,0.30235738690785363
+2026-02-07,,0.0,,0.0,0.0,0.3264220804284945
+2026-02-08,,0.0,,0.0,0.0,0.3666410929659616
+2026-02-09,,0.0,,0.0,0.0,0.20676575284368434
+2026-02-10,,0.0,,0.0,0.0,0.225016797632606
+2026-02-11,,0.0,,0.0,0.0,0.3599696927820215
+2026-02-12,,0.0,,0.0,0.0,0.2673325359421685
+2026-02-13,,0.0,,0.0,0.0,0.24417324673220522
+2026-02-14,,0.0,,0.0,0.0,0.24193356238473968
+2026-02-15,,0.0,,0.0,0.0,0.26299612582260745
+2026-02-16,,0.0,,0.0,0.0,0.2640444887086552
+2026-02-17,,0.0,,0.0,0.0,0.27276496180623394
+2026-02-18,,0.0,,0.0,0.0,0.26752314737599536
+2026-02-19,,0.0,,0.0,0.0,0.5032618381613622
+2026-02-20,,0.0,,0.0,0.0,0.3178445659062859
+2026-02-21,,0.0,,0.0,0.0,0.3608274442342424
+2026-02-22,,0.0,,0.0,0.0,0.41219722565058065
+2026-02-23,,0.0,,0.0,0.0,0.30469237697223267
+2026-02-24,,0.0,,0.0,0.0,0.311649694306913
+2026-02-25,,0.0,,0.0,0.0,0.5036430610290158
+2026-02-26,,0.0,,0.0,0.0,0.4183920972499536
+2026-02-27,,0.0,,0.0,0.0,0.4477939109177464
+2026-02-28,tp4,2.0,"Nevatim airbase, Tel Aviv, US military facilities in Persian Gulf; USN Fifth Fleet HQ Bahrain; Port Jebel Ali UAE; Duqm port Oman (2 drones, 1 injured); Tankers off Oman coast | Tel Aviv, US bases in Iraq | Israeli naval base in Haifa, warship dock in Haifa, Ramat David Air Base, HaKirya (Ministry of War) Tel Aviv, Abdullah Al-Mubarak Air Base Kuwait, Harir base Iraq, Prince Sultan Air Base Saudi Arabia; Crowne Plaza Hotel Manama Bahrain; Etihad Towers Abu Dhabi (drone intercepted, debris damage); French base Camp de la Paix Abu Dhabi; Al-Salam Naval Base Abu Dhabi; Saudi oil refinery",31.07,34.79,10.0
+2026-03-01,tp4,9.0,"Beit Shams military-industrial complex, Ishtod military-industrial complex, US bases in Kuwait and Iraq | American vessels in Indian Ocean, Abdullah Mubarak naval base Kuwait; Two missiles fired towards British bases on Cyprus (denied by Cyprus MoD) | Tel Nof Air Base, HaKirya headquarters (Israeli Defense Ministry/military command) Tel Aviv, Israeli Navy base Haifa, Haifa military naval yard | US/British oil tankers in Persian Gulf/Strait of Hormuz, Ali Al-Salem naval base Kuwait, Mohammed Al-Ahmad Naval Base Kuwait, Mina Salman US naval base Bahrain, USS Abraham Lincoln; Prince Sultan Airbase and King Khalid International Airport Saudi Arabia (intercepted); AWS data center UAE | Continued strikes on American and Israeli targets, regional US bases | US naval assets, Israeli defense systems, drones across multiple regions; RAF Akrotiri Cyprus (1 drone hit airfield, 5 intercepted, minor damage)",31.66,34.78,8.432077998198723
+2026-03-02,tp4,0.0,"Israeli government complex Tel Aviv, military/security centers Haifa, East Jerusalem; Netanyahu's office (Tel Aviv); Saudi Aramco facility | US intelligence centers and military support warehouses in Persian Gulf, Israeli army communications complex Beersheba, 20+ sites in Tel Aviv/West Jerusalem/Galilee; Paphos Airport Cyprus (evacuated); Akrotiri Cyprus (sirens); Aramco Ras Tanura Saudi Arabia (refinery fire); Qatar LNG facilities; Mina Salman port Bahrain; Duqm/Oman maritime targets; US-Jordanian embassy evacuated | US Arifjan base Kuwait, US Al Minhad command center UAE, US naval facilities Bahrain, fuel tanker Athens Nova in Strait of Hormuz; Port Fujairah UAE; Dubai UAE (ballistic missile); Sulaymaniyah Iraqi Kurdistan; Erbil Iraq | US Navy Marine base at Arifjan base Kuwait, Ali Al-Salim air base Kuwait",32.09,34.78,5.790346483933839
+2026-03-03,tp4 | tp4 - Ya Fatimah Al-Zahra,0.0,"US air base Sheikh Isa area Bahrain; US embassy Riyadh Saudi Arabia (2 drones, fire); CIA headquarters Riyadh (drone hit); Saudi Arabia downed 9 drones | Al-Udeid Air Base Qatar, Israeli positions; US Consulate Al Seef Dubai (drones, fire); Fujairah Oil Industry Zone UAE; Hamad International Airport Qatar (intercepted); AWS facilities UAE and Bahrain",25.92,50.59,4.84553325931256
+2026-03-04,tp4 | tp4 - Rasul Allah (Messenger of Allah),0.0,"HaKirya (IDF general staff and Ministry of War) Tel Aviv, strategic infrastructure Bnei Brak, military targets Beit Hakfa; Kuwait, Iraq, Saudi Arabia, UAE (hundreds of drones); Greek F-16s intercept Shahed drones near Cyprus; Turkish air defences intercept missiles over Hatay | American and Israeli targets; Israeli Ministry of Defense building (Tel Aviv); Ben Gurion Airport; 7+ advanced US radars destroyed",32.46,35.135,4.049968787377711
+2026-03-05,tp4 - Ya Hassan ibn Ali (peace be upon him),0.0,"Israeli Defense Ministry complex Tel Aviv, Ben Gurion Airport, Jerusalem; US military positions in Kuwait, Bahrain, Qatar; USS Abraham Lincoln (CVN-72); Amazon data center Bahrain",31.925,34.995,3.3580969354446726
+2026-03-06,tp4 - Ya Mu'izz al-Mu'minin | tp4 - Ya Hossein ibn Ali (peace be upon him) | tp4 - Ya Hasan ibn Ali,0.0,"Tel Aviv; combined drone swarms and Kheibar cluster missiles designed to saturate and overwhelm multi-layered air defences | Tel Aviv, Ben Gurion Airport, Israeli Air Force military centers in Haifa, US and Israeli positions across the Persian Gulf including Al Udeid Air Base (Qatar) and Al Dhafra Air Base (UAE). Retaliation for Minab school strike. | US bases: Sheikh Isa (Bahrain), Juffair (Bahrain), Ali al-Salem (Kuwait), al-Azraq (Jordan). Israel: Be'er Sheva (advanced technology centers, cybersecurity facilities, military support centers).",32.0853,34.7818,3.126408737628127
+2026-03-07,tp4 - Ya Mahdi | tp4 - Al-Muqaddis / Ali ibn Abi Talib | tp4 - Ya Heydar Karrar | tp4 - Ya Fatimah al-Zahra,0.0,"Tel Aviv (""heart of the occupied territories""). At least 3 missile impacts confirmed in Tel Aviv per Al Jazeera. IRGC claimed strikes on strategic facilities. | Joint US-Israeli military centers and logistical support. Al-Dhafra Air Base (UAE), Al-Minhad Air Base (UAE). IRGC claimed precision strikes on radar and satellite comms centers. | Targets from north to south of Israel hit with precision, including Jerusalem (cluster missile intercepted over city per Anadolu Agency/Israel National News). Sdot Micha strategic military facility (radar). Also Iran army drone strikes against US bases: Al-Minhad Air Base (UAE) and Camp Udairi (Kuwait). | Haifa oil refinery; US positions in Kuwait (Camp Udairi / Camp Buehring). Cluster warheads confirmed over Israel.",32.07,34.77,4.100623775917199
+2026-03-08,tp4 | tp4 - Ya Ali Ibn Abi Talib,0.0,Tel Aviv; Be'er Sheva (Bir al-Sabe'); Al-Azraq Air Base (Jordan) | Tel Aviv; Naqab (Negev); US airbase in region (unspecified),31.66,34.78,3.9478487117049714
+2026-03-09,"tp4 | tp4 - Labbaik Ya Khamenei | tp4 - At Your Service, Khamenei",1.0,"US and Israeli positions; sirens in Netanya, Western Galilee, northern Israel | Five strategic US bases (incl. US Navy 5th Fleet HQ); Israeli military sites; Cluster warhead struck Yehud, Or Yehuda, Holon, Bat Yam, Rishon LeZion | Sites in northern and central Israel | Tel Aviv (10+ missile impacts reported); US Navy 5th Fleet base; Sdot Micha satellite communications center (reportedly destroyed by drones) | Ramle (kindergarten and infrastructure hit); Mateh Yehuda Regional Council (open area); claimed target: IDF Home Front Command HQ (Rehavam Base) in Ramle; claimed target: satellite communications station in Haela Valley near Beit Shemesh | Qatar — likely targeting Al Udeid Air Base and other US military facilities",32.33,34.86,3.497624505005933
+2026-03-10,tp4 - First Wave Under the New Ayatollah | tp4,2.0,"Yehud (construction site — primary impact, 1 killed, 2 seriously wounded); Or Yehuda; Holon; Bat Yam; Rishon Letzion (1 moderately wounded) | Jerusalem area; Beit Shemesh area. Sirens across Jerusalem, West Bank, and southern Israel. | Haifa oil and gas refinery; fuel storage tanks",32.03,34.89,2.959909650180366
+2026-03-11,,0.0,,0.0,0.0,2.7443281185221897
+2026-03-12,,0.0,,0.0,0.0,2.6138069392092484
+2026-03-13,,0.0,,0.0,0.0,2.486383195695994
+2026-03-14,,0.0,,0.0,0.0,2.8158550590657176
+2026-03-15,,0.0,,0.0,0.0,3.0503071226727534
+2026-03-16,,0.0,,0.0,0.0,2.31340331949812
+2026-03-17,,0.0,,0.0,0.0,2.4423043016235333
+2026-03-18,,0.0,,0.0,0.0,2.729079203816041
+2026-03-19,,0.0,,0.0,0.0,2.716594154900382
+2026-03-20,,0.0,,0.0,0.0,2.322076139737242
+2026-03-21,,0.0,,0.0,0.0,2.793315257015692
+2026-03-22,,0.0,,0.0,0.0,2.895054109820778
+2026-03-23,,0.0,,0.0,0.0,2.269562689717943
+2026-03-24,,0.0,,0.0,0.0,2.0724228142825147
+2026-03-25,,0.0,,0.0,0.0,1.8873391120366356
+2026-03-26,,0.0,,0.0,0.0,1.8795240432497342
+2026-03-27,,0.0,,0.0,0.0,1.8358740249033838
+2026-03-28,,0.0,,0.0,0.0,2.108924903860358
+2026-03-29,,0.0,,0.0,0.0,2.5604357377377287
+2026-03-30,,0.0,,0.0,0.0,1.9699691686005787
+2026-03-31,,0.0,,0.0,0.0,1.8099032170444742
+2026-04-01,,0.0,,0.0,0.0,1.6685171860034023
+2026-04-02,,0.0,,0.0,0.0,1.772066847429843
+2026-04-03,,0.0,,0.0,0.0,1.7382333179255758
+2026-04-04,,0.0,,0.0,0.0,1.9669670385178057
+2026-04-05,,0.0,,0.0,0.0,2.088958356166995
+2026-04-06,,0.0,,0.0,0.0,2.0958680206432185
+2026-04-07,,0.0,,0.0,0.0,1.776260298974034
+2026-04-08,,0.0,,0.0,0.0,3.0332950522037065
+2026-04-09,,0.0,,0.0,0.0,2.40332426340594
+2026-04-10,,0.0,,0.0,0.0,1.9516228180947437
